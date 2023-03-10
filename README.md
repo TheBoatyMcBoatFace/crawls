@@ -23,7 +23,11 @@ spider --respect-robots-txt --domain https://beta.nsf.gov scrape --output-links 
 
 ### Department of Education
 
-spider --respect-robots-txt --domain https://ed.gov scrape --output-links > gov/ed/scrape.json
+spider --domain https://data.ed.gov scrape --output-links > gov/ed/data_scrape.json
+
+### Department of Veterans Affairs
+
+spider --domain https://www.va.gov scrape --output-links > gov/va/data_scrape.json
 
 ## Commands
 
