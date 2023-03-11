@@ -27,7 +27,7 @@ spider --domain https://data.ed.gov scrape --output-links > gov/ed/data_scrape.j
 
 ### Department of Veterans Affairs
 
-spider --domain https://www.va.gov scrape --output-links > gov/va/data_scrape.json
+spider --verbose --domain https://www.va.gov scrape --output-links > gov/va/data_scrape.json
 
 ## Commands
 
