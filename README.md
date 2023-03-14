@@ -145,3 +145,9 @@ OPTIONS:
 # Crawlee
 
 https://crawlee.dev/docs/quick-start#installation-with-crawlee-cli
+
+## Projects
+
+### my-crawler
+
+Getting Started Example (JavaScript)
