@@ -141,3 +141,7 @@ OPTIONS:
     -o, --output-links    stdout all links crawled
     -s, --sync            sequentially one by one crawl pages
 ```
+
+# Crawlee
+
+https://crawlee.dev/docs/quick-start#installation-with-crawlee-cli
